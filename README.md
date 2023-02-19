@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @ulreck-drulk
-- 👀 I’m interested in Data Science and Automation
-- 🌱 I’m currently learning Python - PBI - SQL and Tableau
-- 💞️ I’m looking to collaborate on open source projects to grow my knowledge and help as I can
+- 👋 Hi, I’m @ulreck-drulk, I'm Roger's analytical side 🧠
+- 👀 I’m interested in Data Science and Back-end Development
+- 🥇 I’m currently learning Java to becoem a back-end Developer with @Alura Latam
+- 🌱 I'm polishing my data Skills Power BI and SQL
+- 💞️ I’m looking to learn and grow as much as I can in the Data World.
+- 👨‍🏫 Any feedback you provide it helps me a lot.
+
+Thanks for passing by.
+
+You can reach my email [here](mailto:rchamorrom204@gmail.com)
 
 
 <!---
