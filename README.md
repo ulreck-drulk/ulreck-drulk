@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ulreck-drulk, I'm Roger's analytical side 🧠
 - 👀 I’m interested in Data Science and Back-end Development
-- 🥇 I’m currently learning Java to becoem a back-end Developer with @Alura Latam
 - 🌱 I'm polishing my data Skills Power BI and SQL
 - 💞️ I’m looking to learn and grow as much as I can in the Data World.
 - 👨‍🏫 Any feedback you provide it helps me a lot.
