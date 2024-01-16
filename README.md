@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @ulreck-drulk, I'm Roger's analytical side 🧠
-- 👀 I’m interested in Data Science and Back-end Development
-- 🌱 I'm polishing my data Skills Power BI and SQL
-- 💞️ I’m looking to learn and grow as much as I can in the Data World.
-- 👨‍🏫 Any feedback you provide it helps me a lot.
+### 👋 Hi there, I'm Ulreck - The Analytical Side of Roger! 🧠
 
-Thanks for passing by.
+Welcome to my data-driven realm! 👨‍💻 Here's a glimpse into what keeps me on the tech trail:
 
-You can reach my email [here](mailto:rchamorrom204@gmail.com)
+- 🚀 Exploring the vast landscapes of Data Science and Back-end Development.
+- 🌱 Currently honing my skills in Power BI and SQL, crafting insights from raw data.
+- 🌐 Crafting a solo journey from zero to hero, documenting it all on [Roger's Place](https://roger-place.pages.dev/).
+- 💡 Eager to learn and grow within the ever-evolving Data World.
+
+👨‍🏫 Your feedback is my compass on this adventurous path, so feel free to share your thoughts.
+
+Thanks for stepping into my data domain! Let's code, learn, and conquer together. 🚀📊
+
+You can reach my email [here](mailto:1i9mcgdzn@mozmail.com)
 
 
 <!---
